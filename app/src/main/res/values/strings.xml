@@ -1,6 +1,10 @@
 <resources>
-    <string name="app_name">My First App</string>
+    <string name="app_name">Aplikasi Tebak Kata</string>
     <string name="header_1">SELAMAT DATANG DI APLIKASI SAYA</string>
     <string name="search_hint">masukkan pencarian anda...</string>
     <string name="btn_search">search</string>
+    <string name="selamat_anda_berhasil_menjawab_semua_pertanyaa_dengan_benar">SELAMAT ANDA BERHASIL MENJAWAB SEMUA
+        PERTANYAA DENGAN BENAR
+    </string>
+    <string name="home">HOME</string>
 </resources>
